@@ -3,6 +3,17 @@ body {
     background: url("../img/space.jpg");
     background-size: cover;
   }
+
+  button{
+    border-radius: 20px;
+    padding: 10px 20px;
+  }
+
+  a{
+    text-decoration: none;
+    font-size: 15px;
+  }
+
   #board {
     position: relative;
     width: 500px;
